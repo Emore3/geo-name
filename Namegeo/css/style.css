@@ -1,0 +1,18 @@
+* {
+    transition: all 50s ease-in-out;
+    scroll-behavior: smooth;
+}
+
+.perce{
+    width: 500px;
+    height: 15px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+.per{
+    height: 100%;
+    border-radius: 20px;
+    /* width: 10%; */
+    background: rgb(204, 242, 14);
+    transition: all 50s ease-in-out;
+}
